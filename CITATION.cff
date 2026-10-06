@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this code, please cite it using these metadata.
+title: >-
+  Analysis code for indirect reference intervals for 17 complete blood count
+  parameters in an outpatient population in Uzbekistan
+abstract: >-
+  Extraction, quality-control and reference-interval estimation code for a
+  12-month series of 30,512 validated outpatient complete blood counts from
+  Tashkent, Uzbekistan. No patient data is included.
+type: software
+license: MIT
+authors:
+  - family-names: Madaminov
+    given-names: Matyakub
+    orcid: https://orcid.org/0009-0003-7697-8806
+    affiliation: Intermed Innovation Medical Centre, Tashkent, Uzbekistan
+  - family-names: Kadirov
+    given-names: Marimbay
+    orcid: https://orcid.org/0009-0003-7175-0837
+    affiliation: Queensland University of Technology, Brisbane, Australia
+keywords:
+  - reference intervals
+  - complete blood count
+  - indirect method
+  - refineR
+  - laboratory medicine
+  - Uzbekistan
